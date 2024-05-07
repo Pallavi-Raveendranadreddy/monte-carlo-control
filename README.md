@@ -25,8 +25,8 @@ After the policy converges, use the function np.argmax to find the optimal polic
 
 Q: The Q-table. axis: The axis along which to find the maximum value.
 ```
-Developed by: v charan sai
-Reg no:212221240061
+Developed by: VALASAREDDY PALLAVI
+Reg no:212221240059
 ```
 
 ## MONTE CARLO CONTROL FUNCTION
