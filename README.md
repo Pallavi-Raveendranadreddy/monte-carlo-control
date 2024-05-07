@@ -71,7 +71,7 @@ def mc_control(env, gamma = 1.0, init_alpha = 0.5, min_alpha = 0.01,
 
 ## OUTPUT:
 Mention the optimal policy, optimal value function , success rate for the optimal policy.
-![image](https://github.com/Pallavi-Raveendranadreddy/monte-carlo-control/assets/94294872/b8a2e2c8-ebe0-4f39-92b9-2185e249bca4)
+![image](https://github.com/Pallavi-Raveendranadreddy/monte-carlo-control/assets/94294872/aec9b185-b2b4-43a3-aaba-7767bf156576)
 ![image](https://github.com/Pallavi-Raveendranadreddy/monte-carlo-control/assets/94294872/ed0b8542-dc13-4f7e-9112-1c7569000c0b)
 
 
